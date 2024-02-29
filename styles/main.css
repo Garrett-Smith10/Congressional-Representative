@@ -1,0 +1,69 @@
+.pageHeader {
+    display:flex;
+    justify-content: center;
+    font-size: 50px;
+    background-color: rgb(117, 117, 231);
+}
+
+
+
+
+
+
+
+.infoDistricts {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: 200%;
+    margin: 2em;
+    margin-left: 500px;
+    margin-right: 500px;
+    font-size: 20px;
+    background-color: rgb(117, 117, 231);
+}
+
+
+
+
+
+.main__image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   
+   
+
+}
+
+.flex-item {
+    width: 300px;
+    height: 300px;
+    border: 4px solid black;
+   
+}
+
+.main__name {
+display:flex;
+justify-content: center;
+font-size: 35px;
+}
+
+
+
+.main__political__affiliation {
+    display:flex;
+   justify-content:center; 
+   font-size: 20px;
+   margin-bottom: 1em;
+}
+
+.main__committees {
+    text-align: center;  
+   
+}
+
+.main__legislation {
+    text-align:center;  
+}
+
